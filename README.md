@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nijlanderrr
 - 👀 I’m interested in developing all kinds of stuff!
-- 🌱 I’m currently learning Joomla and React Native
+- 🌱 I’m currently learning Svelte and Joomla!
 
 <!---
 nijlanderrr/nijlanderrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
